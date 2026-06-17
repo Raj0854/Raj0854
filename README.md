@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects and works.
 - 🤔 I’m looking for a internship.
 - 📫 How to reach me: rajgupta.02.0854@gmail.com
--- visit portfolio : https://raj0854.github.io/portfolio/
+-  visit portfolio : https://raj0854.github.io/portfolio/
